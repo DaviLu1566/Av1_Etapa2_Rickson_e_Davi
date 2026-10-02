@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Mickey Mouse",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mickey_Mouse.png",
+    "cargo": "Presidente",
+    "numero": "91"
+  },
+  {
+    "nome": "Minnie Mouse",
+    "foto": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/b/b2/Minnie_Mouse.png",
+    "cargo": "Governador(a)",
+    "numero": "91"
+  },
+  {
+    "nome": "Pato Donald",
+    "foto": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/a/a5/Donald_Duck.png",
+    "cargo": "Senador(a)",
+    "numero": "915"
+  },
+  {
+    "nome": "Pateta",
+    "foto": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/a/a6/Goofy_Character.png",
+    "cargo": "Deputado(a) Federal",
+    "numero": "9170"
+  },
+  {
+    "nome": "Mago Merlin",
+    "foto": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/3/30/Merlin_Disney.png",
+    "cargo": "Deputado(a) Estadual",
+    "numero": "91000"
+  }
+]

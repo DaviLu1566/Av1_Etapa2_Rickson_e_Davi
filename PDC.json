@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Superman",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/3/35/Superman_S_shield.svg",
+    "cargo": "Presidente",
+    "numero": "93"
+  },
+  {
+    "nome": "Batman",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/1/17/Batman-1939.png",
+    "cargo": "Governador(a)",
+    "numero": "93"
+  },
+  {
+    "nome": "Lanterna Verde",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/8/82/Green_Lantern.png",
+    "cargo": "Senador(a)",
+    "numero": "933"
+  },
+  {
+    "nome": "Flash",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/e/ed/Flash_comics.png",
+    "cargo": "Deputado(a) Federal",
+    "numero": "9338"
+  },
+  {
+    "nome": "Mulher-Maravilha",
+    "foto": "https://upload.wikimedia.org/wikipedia/en/9/93/Wonder_Woman.png",
+    "cargo": "Deputado(a) Estadual",
+    "numero": "93383"
+  }
+]
